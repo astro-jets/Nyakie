@@ -9830,11 +9830,24 @@ textarea.form-control-lg {
      object-fit: cover;
 }
 
+.shop-cta img {
+  width: 22rem;
+  height: auto;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 @media screen and (max-width: 760px) {
   .navbar-nav {
     height: 100vh;
   }
   .services-section {
     height: 170vh !important;
+  }
+  .shop-cta img {
+    width: 15rem;
+    height: auto;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
 }/*# sourceMappingURL=style.min.css.map */
