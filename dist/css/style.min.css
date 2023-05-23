@@ -9849,6 +9849,11 @@ textarea.form-control-lg {
      object-fit: cover;
 }
 
+@media screen and (min-width: 768px) {
+  .hide-lg {
+    display: none;
+  }
+}
 @media screen and (max-width: 760px) {
   .font-primary {
     font-size: 2.7rem;
