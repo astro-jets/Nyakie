@@ -9944,6 +9944,15 @@ textarea.form-control-lg {
   font-family: "Dancing Script";
 }
 
+.rounded {
+  border-radius: 50% !important;
+  height: 2.5rem;
+  width: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
 a {
   text-decoration: none !important;
 }
