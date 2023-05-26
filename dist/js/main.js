@@ -2,8 +2,8 @@
 
 	"use strict";
 	AOS.init({
-            offset:200,
-            duration:1000,
+            offset:100,
+            duration:800,
             easing: 'ease-in-out',
             anchorPlacement:'top-bottom',
             mirror:true

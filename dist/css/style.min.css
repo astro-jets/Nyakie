@@ -19583,6 +19583,10 @@ textarea.form-control-lg {
   font-family: "Playfair Display";
 }
 
+section {
+  overflow-x: hidden !important;
+}
+
 .font-primary {
   font-family: "Dancing Script";
 }
@@ -19767,7 +19771,7 @@ a {
 }
 
 .top-section {
-  height: 50vh !important;
+  height: 65vh !important;
 }
 .top-section img {
   width: 100%;
